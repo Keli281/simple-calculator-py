@@ -41,6 +41,9 @@ A simple command-line calculator program written in Python that performs basic a
  
 The program will display the result of the calculation
 
+## License 
+This project is open-source. Feel free to use or improve it!
+
 ## Author
 Natalie Awinja
 Computer SCience student, Multimedia University of Kenya
