@@ -27,7 +27,7 @@ A simple command-line calculator program written in Python that performs basic a
 
 2. Navigate to the project directory:
    ```bash
-   cd basic-calculator 
+   cd simple-calculator-py
 
 3. Run the calculator program:
 
