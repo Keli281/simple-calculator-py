@@ -27,19 +27,18 @@ A simple command-line calculator program written in Python that performs basic a
 
 2. Navigate to the project directory:
    ```bash
-cd basic-calculator 
+   cd basic-calculator 
 
 3. Run the calculator program:
-   ```bash
 
-4. Follow the on-screen prompts:
+ Follow the on-screen prompts:
 
-Enter the first number
+ Enter the first number
 
-Enter the second number
+ Enter the second number
 
-Choose an operation (+, -, *, /)
-
+ Choose an operation (+, -, *, /)
+ 
 The program will display the result of the calculation
 
 ## Author
