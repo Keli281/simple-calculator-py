@@ -31,18 +31,19 @@ A simple command-line calculator program written in Python that performs basic a
 
 3. Run the calculator program:
 
- Follow the on-screen prompts:
+  Follow the on-screen prompts:
 
- Enter the first number
+  Enter the first number
 
- Enter the second number
+  Enter the second number
 
- Choose an operation (+, -, *, /)
+  Choose an operation (+, -, *, /)
  
-The program will display the result of the calculation
+  The program will display the result of the calculation
 
-## License 
-This project is open-source. Feel free to use or improve it!
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 Natalie Awinja
